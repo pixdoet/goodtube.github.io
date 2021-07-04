@@ -34,6 +34,7 @@ body {
 
 a:hover #header-logo {
     opacity: 1;
+    display: inline-block;
 }
 
 #nav {
