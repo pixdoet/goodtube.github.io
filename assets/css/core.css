@@ -32,6 +32,10 @@ body {
     opacity: .5;
 }
 
+#header-links a {
+    display: inline-block;
+}
+
 a:hover #header-logo {
     opacity: 1;
     display: inline-block;
